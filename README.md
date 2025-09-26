@@ -90,3 +90,9 @@ When you are finished, you can deactivate the virtual environment by simply runn
 ```bash
 deactivate
 ```
+
+
+
+### References
+https://www.geeksforgeeks.org/machine-learning/xgboost/
+https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
